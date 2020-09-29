@@ -5,7 +5,9 @@ TARGET ACCOUNT CRACKER FOR FACEBOOK BTUTEFORCE
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+# CONTRIBUTE
 
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 # INTRO
 
