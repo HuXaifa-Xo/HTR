@@ -1,7 +1,13 @@
 # HTR
-TARGET ACCOUNT CRACK FACEBOOK BTUTEFORCE
+TARGET ACCOUNT CRACKER FOR FACEBOOK BTUTEFORCE
+
+# INTRO
 
 ![alt-text](https://github.com/HuXaifa-Xo/HTR/blob/Huzaifa/IMG_20200929_071521.jpg)
+
+# SCREENSHOT
+
+![alt-text](https://github.com/HuXaifa-Xo/HTR/blob/Huzaifa/IMG_20200929_080726.jpg)
 
 # INSTALLATIONS
 
